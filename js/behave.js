@@ -17,7 +17,7 @@ function happyBirthday() {
         const gift = document.createElement('div');
         gift.classList.add('gift');
     
-        gift.style.left = Math.random() * 100 + 'vw';
+        gift.style.left = Math.random() * 95 + 'vw';
     
         gift.style.fontSize = Math.random() * 30 + 'px';
     
